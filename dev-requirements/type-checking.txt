@@ -314,9 +314,9 @@ pytest-xdist==3.2.1 ; python_full_version >= "3.9.0" and python_version < "3.13"
 pytest==7.2.2 ; python_full_version >= "3.9.0" and python_version < "3.13" \
     --hash=sha256:130328f552dcfac0b1cec75c12e3f005619dc5f874f0a06e8ff7263f0ee6225e \
     --hash=sha256:c99ab0c73aceb050f68929bc93af19ab6db0558791c6a0715723abe9d0ade9d4
-setuptools==67.6.0 ; python_full_version >= "3.9.0" and python_version < "3.13" \
-    --hash=sha256:2ee892cd5f29f3373097f5a814697e397cf3ce313616df0af11231e2ad118077 \
-    --hash=sha256:b78aaa36f6b90a074c1fa651168723acbf45d14cb1196b6f02c0fd07f17623b2
+setuptools==67.6.1 ; python_full_version >= "3.9.0" and python_version < "3.13" \
+    --hash=sha256:257de92a9d50a60b8e22abfcbb771571fde0dbf3ec234463212027a4eeecbe9a \
+    --hash=sha256:e728ca814a823bf7bf60162daf9db95b93d532948c4c0bea762ce62f60189078
 sniffio==1.3.0 ; python_full_version >= "3.9.0" and python_version < "3.13" \
     --hash=sha256:e60305c5e5d314f5389259b7f22aaa33d8f7dee49763119234af3755c55b9101 \
     --hash=sha256:eecefdce1e5bbfb7ad2eeaabf7c1eeb404d7757c379bd1f7e5cce9d8bf425384
